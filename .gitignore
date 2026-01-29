@@ -1,0 +1,23 @@
+# Python / general
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+env/
+venv/
+.DS_Store
+.env
+
+# Node / frontend
+node_modules/
+webapp/node_modules/
+webapp/dist/
+webapp/.vite/
+
+# Generated metadata
+public/algorithms.json
+public/examples/
+
+# Docs (temporarily excluded)
+docs/
